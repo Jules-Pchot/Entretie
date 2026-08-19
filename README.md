@@ -20,6 +20,7 @@ Entretie/
 └── Solutions/                     # <-- Reserve a l'interviewer, NE PAS partager avec le candidat
     ├── Solutions.sln
     ├── EXPLICATIONS.md            # Explication detaillee de chaque solution
+    ├── INDICES.md                 # Indices progressifs par TODO (raisonnement > syntaxe)
     └── 01-.../ 02-.../ ...        # Implementations completes, memes tests que Exercises/
 ```
 
@@ -63,6 +64,10 @@ Le dossier `Exercises/` est ce que le candidat doit récupérer — **pas**
    - Il lance `F5` pour vérifier ses résultats via les tests automatiques.
    - Discussion : demandez-lui d'expliquer ses choix (complexité,
      structures de données utilisées, pourquoi telle exception, etc.)
+   - S'il bloque, utilisez `Solutions/INDICES.md` : des indices progressifs
+     (question ouverte → indice conceptuel → indice concret) par TODO,
+     pensés pour évaluer le raisonnement plutôt que la mémorisation de
+     syntaxe.
 3. Comptez 8-12 minutes par exercice. S'il bloque longtemps sur un exercice,
    passez au suivant — l'objectif est de couvrir plusieurs structures de
    données, pas de terminer les 5.
