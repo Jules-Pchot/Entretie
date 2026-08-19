@@ -21,6 +21,7 @@ Entretie/
     ├── Solutions.sln
     ├── EXPLICATIONS.md            # Explication detaillee de chaque solution
     ├── INDICES.md                 # Indices progressifs par TODO (raisonnement > syntaxe)
+    ├── COMPLEXITE.md              # Complexite + logique par TODO : version optimisee vs debutant
     └── 01-.../ 02-.../ ...        # Implementations completes, memes tests que Exercises/
 ```
 
